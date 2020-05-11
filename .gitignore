@@ -338,3 +338,12 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/BasicProject/HelloDjangoApp/__init__.py
+/BasicProject/HelloDjangoApp/admin.py
+/BasicProject/HelloDjangoApp/apps.py
+/BasicProject/HelloDjangoApp/models.py
+/BasicProject/HelloDjangoApp/tests.py
+/BasicProject/HelloDjangoApp/views.py
+/BasicProject/HelloDjangoApp/migrations/__init__.py
+/BasicProject/db.sqlite3
+/BasicProject/HelloDjangoApp/templates/HelloDjangoApp/index.html
